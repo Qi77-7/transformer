@@ -1,0 +1,6 @@
+# 依赖包列表 - 作业要求：提供环境依赖
+torch>=1.9.0
+datasets>=2.0.0
+matplotlib>=3.3.0
+numpy>=1.21.0
+tqdm>=4.62.0
